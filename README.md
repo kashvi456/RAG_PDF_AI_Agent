@@ -23,8 +23,8 @@ A command-line Retrieval-Augmented Generation (RAG) assistant built with **Pytho
 1. **Clone the repository:**
    
    ```bash
-   git clone [https://github.com/your-username/rag-pdf-ai-agent.git](https://github.com/your-username/rag-pdf-ai-agent.git)
-   cd rag-pdf-ai-agent
+   git clone [https://github.com/your-username/RAG_PDF_AI_Agent.git]
+   cd RAG_PDF_AI_Agent
    ```
 
 2. **Create and activate a virtual environment:**
